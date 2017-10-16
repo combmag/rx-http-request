@@ -1,9 +1,0 @@
-[
-    {"name":"README.md"},
-    {"name":"LICENSE.md"},
-    {"name":"package.json"},
-    {"name":"src"},
-    {"name":"commonjs", "remove":true},
-    {"name":"es2015", "remove":true},
-    {"name":"typings", "remove":true}
-]
