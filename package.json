@@ -1,1 +1,50 @@
-{"name":"@akanass/rx-http-request","version":"2.6.0","description":"The world-famous HTTP client Request now RxJS compliant, wrote in Typescript | ES6 for client and server side.","main":"index.js","module":"es2015/index.js","types":"typings/index.d.ts","private":false,"repository":{"type":"git","url":"git+ssh://git@github.com/njl07/rx-http-request.git"},"keywords":["Request","RxJS","Rx","ReactiveX","Observable","Observer","HTTP","API","Streams","Async","ES2015","ES2016","ES2017","ES6","ES7","ES8","Typescript","Browser"],"author":"Nicolas Jessel","license":"MIT","bugs":{"url":"https://github.com/njl07/rx-http-request/issues"},"homepage":"https://github.com/njl07/rx-http-request#readme","dependencies":{"@types/node":"^8.0.28","@types/request":"^2.0.3","request":"^2.81.0"},"peerDependencies":{"rxjs":"^5.4.3"},"engines":{"node":">=7.0.0"}}
+{
+	"name": "@akanass/rx-http-request",
+	"version": "2.6.0",
+	"description": "The world-famous HTTP client Request now RxJS compliant, wrote in Typescript | ES6 for client and server side.",
+	"main": "commonjs/index.js",
+	"module": "es2015/index.js",
+	"types": "typings/index.d.ts",
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/njl07/rx-http-request.git"
+	},
+	"keywords": [
+		"Request",
+		"RxJS",
+		"Rx",
+		"ReactiveX",
+		"Observable",
+		"Observer",
+		"HTTP",
+		"API",
+		"Streams",
+		"Async",
+		"ES2015",
+		"ES2016",
+		"ES2017",
+		"ES6",
+		"ES7",
+		"ES8",
+		"Typescript",
+		"Browser"
+	],
+	"author": "Nicolas Jessel",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/njl07/rx-http-request/issues"
+	},
+	"homepage": "https://github.com/njl07/rx-http-request#readme",
+	"dependencies": {
+		"@types/node": "^8.0.28",
+		"@types/request": "^2.0.3",
+		"request": "^2.81.0"
+	},
+	"peerDependencies": {
+		"rxjs": "^5.4.3"
+	},
+	"engines": {
+		"node": ">=7.0.0"
+	}
+}
